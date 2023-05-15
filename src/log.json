@@ -1,0 +1,42 @@
+{"level":30,"time":1683732256635,"pid":14867,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as Nubbless#9047"}
+{"level":30,"time":1683732301301,"pid":14946,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683732482528,"pid":15092,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683732675653,"pid":15211,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683733535658,"pid":15856,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683733602454,"pid":15930,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683733693559,"pid":16096,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683733911405,"pid":16220,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683734042064,"pid":16430,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683735136881,"pid":16743,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683758973064,"pid":18058,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683759324149,"pid":18250,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683759432900,"pid":18310,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683759488093,"pid":18373,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683764773250,"pid":19293,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683765332785,"pid":19417,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683818981971,"pid":22837,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683819083347,"pid":22932,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683819115707,"pid":22995,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683819241049,"pid":23072,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683819400516,"pid":23267,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Nubbless#9047"}
+{"level":30,"time":1683858542610,"pid":42954,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":50,"time":1683858930033,"pid":42954,"hostname":"Gilberts-MacBook-Pro.local","err":{"type":"Error","message":"Could not locate ffmpeg. Tried:\n\n- spawn ffmpeg\n- spawn avconv\n- spawn ./ffmpeg\n- spawn ./avconv\n- ffmpeg-static\n- ffmpeg-binaries","stack":"Error: Could not locate ffmpeg. Tried:\n\n- spawn ffmpeg\n- spawn avconv\n- spawn ./ffmpeg\n- spawn ./avconv\n- ffmpeg-static\n- ffmpeg-binaries\n    at Function.locate (/Users/gilbertotto/Documents/music-bot/node_modules/discord-player/src/utils/FFmpeg.ts:128:19)\n    at Function.spawn (/Users/gilbertotto/Documents/music-bot/node_modules/discord-player/src/utils/FFmpeg.ts:72:40)\n    at new FFmpeg (/Users/gilbertotto/Documents/music-bot/node_modules/discord-player/src/utils/FFmpeg.ts:165:31)\n    at createFFmpegStream (/Users/gilbertotto/Documents/music-bot/node_modules/discord-player/src/utils/FFmpegStream.ts:58:24)\n    at FFmpegFilterer.createStream (/Users/gilbertotto/Documents/music-bot/node_modules/discord-player/src/Structures/GuildQueueAudioFilters.ts:66:16)\n    at GuildQueuePlayerNode.#createFFmpegStream (/Users/gilbertotto/Documents/music-bot/node_modules/discord-player/src/Structures/GuildQueuePlayerNode.ts:575:14)\n    at GuildQueuePlayerNode.play (/Users/gilbertotto/Documents/music-bot/node_modules/discord-player/src/Structures/GuildQueuePlayerNode.ts:478:31)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async _Player.play (/Users/gilbertotto/Documents/music-bot/node_modules/discord-player/src/Player.ts:387:37)"},"msg":"Could not locate ffmpeg. Tried:\n\n- spawn ffmpeg\n- spawn avconv\n- spawn ./ffmpeg\n- spawn ./avconv\n- ffmpeg-static\n- ffmpeg-binaries"}
+{"level":30,"time":1683859545548,"pid":58546,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683860162458,"pid":58726,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683860360662,"pid":58800,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683860647562,"pid":58920,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683864490152,"pid":59855,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683864544031,"pid":59934,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683867432209,"pid":60656,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683867499837,"pid":60737,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683867574322,"pid":60804,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683873078733,"pid":61023,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683873775200,"pid":61321,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683874826169,"pid":61629,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":50,"time":1683874836000,"pid":61629,"hostname":"Gilberts-MacBook-Pro.local","err":{"type":"Error","message":"No voice connection available","stack":"Error: No voice connection available\n    at GuildQueuePlayerNode.play (/Users/gilbertotto/Documents/music-bot/node_modules/discord-player/src/Structures/GuildQueuePlayerNode.ts:396:19)\n    at Object.<anonymous> (/Users/gilbertotto/Documents/music-bot/src/commands/slash/music/play.ts:58:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (/Users/gilbertotto/Documents/music-bot/src/commands/slash/music/play.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"No voice connection available"}
+{"level":30,"time":1683875070035,"pid":61748,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683876345956,"pid":62491,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683876375347,"pid":62553,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683946069718,"pid":66809,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683947201669,"pid":67252,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
+{"level":30,"time":1683947341078,"pid":67363,"hostname":"Gilberts-MacBook-Pro.local","msg":"Logged in as @Leafi Bot#0016"}
